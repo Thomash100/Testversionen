@@ -8,7 +8,7 @@ Nutzerdaten.
 
 - [Downloadseite](https://thomash100.github.io/Testversionen/)
 - [Alle Test-Releases](https://github.com/Thomash100/Testversionen/releases)
-- [Aktuelle Testversion v1.6.9-test.3](https://github.com/Thomash100/Testversionen/releases/tag/v1.6.9-test.3)
+- [Aktuelle Testversion v1.6.9-test.4](https://github.com/Thomash100/Testversionen/releases/tag/v1.6.9-test.4)
 
 Jedes Release enthält, soweit verfügbar:
 
